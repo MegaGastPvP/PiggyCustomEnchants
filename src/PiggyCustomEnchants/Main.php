@@ -3,7 +3,7 @@
 namespace PiggyCustomEnchants;
 
 use PiggyCustomEnchants\Blocks\PiggyObsidian;
-use PiggyCustomEnchants\Commands\CustomEnchantCommand;
+use PiggyCustomEnchants\Commands\
 use PiggyCustomEnchants\CustomEnchants\CustomEnchants;
 use PiggyCustomEnchants\Entities\Fireball;
 use PiggyCustomEnchants\Entities\Lightning;
